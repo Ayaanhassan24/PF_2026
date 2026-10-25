@@ -23,6 +23,7 @@ int main() {
 
     do {
         printf("Choose option (1-4): ");
+        scanf("%d",&option);
 
         switch (option) {
             case 1:
